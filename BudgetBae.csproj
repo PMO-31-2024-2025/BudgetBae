@@ -31,4 +31,9 @@
     <PackageReference Include="System.Data.SQLite" Version="1.0.119" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="BLL\" />
+    <Folder Include="Presentation\" />
+  </ItemGroup>
+
 </Project>
