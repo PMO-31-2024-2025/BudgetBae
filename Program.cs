@@ -7,6 +7,7 @@ class Program
 {
     static void Main(string[] args)
     {
+        //люблю Оленку #настя
         Console.OutputEncoding = Encoding.UTF8;
 
         var dbService = new DatabaseService(@"C:\Users\roman.seliverstov\Downloads\BudgetBaeDB(оленка).db");
